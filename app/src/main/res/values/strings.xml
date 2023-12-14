@@ -1,0 +1,8 @@
+<resources>
+    //lista mostrable para las peliculas
+    <string name="app_name">Cinemexapp3</string>
+    <string-array name="peliculas">
+        <item>Deadpool</item>
+        <item>Civil War</item>
+    </string-array>
+</resources>
